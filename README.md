@@ -1,7 +1,7 @@
 # Olá, eu sou atkgomes1806! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+IA;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Desenvolvimento;Entusiasta+de+IA;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 <div align="center">
