@@ -1,4 +1,4 @@
-# Olá, eu sou atkgomes1806! 👋
+# Olá, eu sou Atkgomes! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Desenvolvimento;Entusiasta+de+IA;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
@@ -98,7 +98,7 @@ Sou apaixonado por resolver problemas complexos e transformar ideias em soluçõ
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gomes-soares-4627a03b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atkgomes1806)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atkgomes@gmail.com)
 
 </div>
 
